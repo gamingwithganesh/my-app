@@ -50,7 +50,7 @@ const Footer = () => {
                     <div className="font-bold text-[16px]">About</div>
                    <p className="flex flex-row items-center my-[15px] cursor-pointer">
                      
-                        <span className="text-[15px] ml-[6px]">Student</span>    
+                        <span className="text-[15px] ml-[6px]">Full Time Web Developer</span>    
                     </p>
                     <p className="flex flex-row items-center my-[15px] cursor-pointer">
                       
@@ -64,7 +64,7 @@ const Footer = () => {
             </div>
 
             <div className="mb-[20px] text-[15px] text-center">
-                &copy; Gaensh Shende
+                &copy; To Z INTECH
             </div>
         </div>
     </div>
